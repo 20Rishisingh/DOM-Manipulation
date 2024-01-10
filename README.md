@@ -1,8 +1,8 @@
-# DOM-Manipulation
+# DOM-Manipulation ---  https://20rishisingh.github.io/DOM-Manipulation/
 
-#Project Description:-   The DOM Manipulator project focuses on dynamically changing the appearance of HTML elements using JavaScript. Various properties such as getElementById, style.backgroundColor, style.margin, style.padding, style.fontSize, style.fontWeight, style.height, and style.width have been employed to enhance the visual experience of the web page.
+Project Description:-   The DOM Manipulator project focuses on dynamically changing the appearance of HTML elements using JavaScript. Various properties such as getElementById, style.backgroundColor, style.margin, style.padding, style.fontSize, style.fontWeight, style.height, and style.width have been employed to enhance the visual experience of the web page.
 
-#To access the hosted version of the project, follow these simple steps:
+To access the hosted version of the project, follow these simple steps:
 
 Step 1: Open Your Web Browser
 Ensure you have a modern web browser installed on your device. Popular choices include Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge.
